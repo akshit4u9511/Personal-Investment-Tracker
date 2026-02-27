@@ -3,6 +3,9 @@
 A modern Android application designed to help users track, manage, and analyze their personal investments efficiently.
 Built with a focus on clean architecture, real-time data tracking, and intuitive financial insights.
 
+![image alt](https://github.com/akshit4u9511/Personal-Investment-Tracker/blob/f0117be7487f9a1a57e88e7c5186feda84a0bbfe/login%20pg.png)
+
+![image alt](https://github.com/akshit4u9511/Personal-Investment-Tracker/blob/f0117be7487f9a1a57e88e7c5186feda84a0bbfe/add%20investment%20pg.png)
 🚀 Overview
 
 The Personal Investment Management App enables users to monitor their investments across multiple asset classes, analyze performance trends, and make informed financial decisions — all from a single mobile dashboard.
